@@ -156,18 +156,18 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             chat_id=update.effective_chat.id,
             photo=photo_file,
             caption=(
-                "‼️ Diqqat bilan o‘qing 👇\n\n"
-                "🗣️ 15 kun davomida ingliz tilida bemalol, ishonch bilan gapirishni o‘rganmoqchimisiz? "
-                "Unda ushbu 100% BEPUL “Fluent in 15” onlayn kursi aynan siz uchun!\n\n"
-                "✨ Bu kurs orqali siz:\n"
-                "✅ Har kuni yangicha speaking mavzularida gapirasiz\n"
-                "✅ So‘z boyligingizni oshirasiz\n"
-                "✅ Grammar + real speaking mashqlarni birgalikda o‘rganasiz\n"
-                "✅ Har bir darsdan so‘ng PDF materiallarni olasiz\n"
-                "✅ Shaxsiy yopiq guruhda qatnashasiz\n"
-                "✅ 15 kun davomida ingliz tilida gapirishga odatlanasiz\n\n"
-                "📌 Kurs 15 kun davom etadi. Har kuni yangi dars!\n"
-                "📩 Darslar onlayn formatda bo‘lib o‘tadi."
+            "‼️ Diqqat bilan o‘qing 👇\n\n"
+            "🗣️ 15 kun davomida ingliz tilida bemalol, ishonch bilan gapirishni o‘rganmoqchimisiz? "
+            "Unda ushbu 100% BEPUL “Fluent in 15” onlayn kursi aynan siz uchun!\n\n"
+            "✨ Bu kurs orqali siz:\n"
+            "✅ Har kuni yangicha speaking mavzularida gapirasiz\n"
+            "✅ So‘z boyligingizni oshirasiz\n"
+            "✅ Grammar + real speaking mashqlarni birgalikda o‘rganasiz\n"
+            "✅ Har bir darsdan so‘ng PDF materiallarni olasiz\n"
+            "✅ Shaxsiy yopiq guruhda qatnashasiz\n"
+            "✅ 15 kun davomida ingliz tilida gapirishga odatlanasiz\n\n"
+            "📌 Kurs 15 kun davom etadi. Har kuni yangi dars!\n"
+            "📩 Darslar onlayn formatda bo‘lib o‘tadi."
             )
         )
 
